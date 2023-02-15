@@ -1,0 +1,48 @@
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.AssemblyReference.cache
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.frmIngresoProduccion.resources
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.GenerateResource.cache
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.AssemblyInfoInputs.cache
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.AssemblyInfo.cs
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.CoreCompileInputs.cache
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.exe
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.deps.json
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.runtimeconfig.json
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.pdb
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.CopyComplete
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\refint\Produccion_hramos.dll
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.pdb
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.genruntimeconfig.cache
+C:\Users\hjona\source\repos\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\ref\Produccion_hramos.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.exe
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.deps.json
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.runtimeconfig.json
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\Produccion_hramos.pdb
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.AssemblyReference.cache
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.frmIngresoProduccion.resources
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.GenerateResource.cache
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.AssemblyInfoInputs.cache
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.AssemblyInfo.cs
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.CoreCompileInputs.cache
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.csproj.CopyComplete
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\refint\Produccion_hramos.dll
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.pdb
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\Produccion_hramos.genruntimeconfig.cache
+C:\Users\hjona\OneDrive\Escritorio\Prueba FOTL\Produccion_hramos\Produccion_hramos\obj\Debug\net6.0-windows\ref\Produccion_hramos.dll
